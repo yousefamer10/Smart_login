@@ -1,0 +1,62 @@
+.one {
+    background-color: #24353f;
+}
+.content{
+padding: 3rem;
+box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+width: 60%;
+}
+.content h2{
+    text-align: center;
+    color: #17a2b8;
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+
+.allborder {
+    background-color: transparent !important;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    outline: none;
+    color: white !important;
+
+}
+
+.but {
+    border: 1px solid #17a2b8;
+    color: #17a2b8;
+}
+
+.but:hover {
+    color: white;
+}
+
+.bor {
+    border: 1px solid #17a2b8;
+}
+
+
+
+input:focus {
+    border: 1px solid #17a2b8;
+    background-color: transparent;
+    transition: all 0.5s;
+}
+.content p{
+    color: white;
+    margin-top: 20px;
+    text-align: center;
+    
+}
+.content a{
+    color: white;
+    text-decoration: none;
+}
+.content a:hover{
+    text-decoration:underline;
+}
+.content .message{
+    color: #dc3545 ;
+    font-size: 1.5rem;
+}
